@@ -1,3 +1,6 @@
+# .venv\Scripts\Activate.ps1
+# uvicorn main:app --reload
+
 import uvicorn
 from os import getenv
 
